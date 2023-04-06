@@ -2,7 +2,7 @@
 
 ## Update
 
-2022.6.23 添加行为经济与管理，不确定性优化建模
+2022.11.17 添加从管理到土木--我的23fall跨专业PhD申请经历
 
 ## Description
 
@@ -49,8 +49,8 @@
 | 生产运作管理                              | 定清           | 2021年春 |                                                              |
 | 博弈论                                    | 滕敏           | 2021年秋 |                                                              |
 | 行为经济与管理                            | 陈卫华         | 2022年春 |                                                              |
-| Uncertainty optimization and modeling     | ZLL            | 2022年春 | 我自己整理的笔记）[仓库链接](https://github.com/zll-hust/Uncertainty-Modeling-and-Optimization) |
-| 从管理到土木--我的23fall跨专业PhD申请经历 | ZLL            | 2022年秋 | 我自己总结的笔记）[文章链接](https://forum.chasedream.com/thread-1390496-1-1.html) [仓库链接](https://github.com/zll-hust/My-PhD-application-From-Management-to-Transportation) |
+| Uncertainty optimization and modeling     | ZLL            | 2022年春 | 自己整理的笔记[文章链接P1](https://blog.csdn.net/zll_hust/article/details/123988838) [文章链接P2](https://blog.csdn.net/zll_hust/article/details/124230862) [仓库链接](https://github.com/zll-hust/Uncertainty-Modeling-and-Optimization) |
+| 从管理到土木--我的23fall跨专业PhD申请经历 | ZLL            | 2022年秋 | 自己总结的内容[文章链接](https://forum.chasedream.com/thread-1390496-1-1.html) [仓库链接](https://github.com/zll-hust/My-PhD-application-From-Management-to-Transportation) |
 
 ## Download
 
@@ -73,7 +73,3 @@
 
 
 仓库地址：https://github.com/zll-hust/Course-Notes-HUST
-
-
-
-[https://github.com/zll-hust/Uncertainty-Modeling-and-Optimization]: 
